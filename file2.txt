@@ -1,4 +1,4 @@
 curso de git
 version dos del archivo
 versión 3 del archivo
-versión 4
+versión 4 del archivo
