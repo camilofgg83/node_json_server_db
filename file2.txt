@@ -1,0 +1,2 @@
+curso de git
+version dos del archivo
