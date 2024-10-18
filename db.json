@@ -1,0 +1,86 @@
+{
+  "profesores": [
+    {
+      "0": {
+        "nombre": "Carolina",
+        "apellido": "Medina",
+        "materias": [
+          {
+            "nombre": "Quimica"
+          },
+          {
+            "nombre": "Biologia"
+          }
+        ],
+        "id": "b729"
+      },
+      "id": "8f71"
+    },
+    {
+      "id": "b729",
+      "nombre": "Carolina",
+      "apellido": "Medina",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        }
+      ]
+    },
+    {
+      "id": "ef25",
+      "nombre": "Carolina",
+      "apellido": "Medina",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Gabriel",
+      "apellido": "García",
+      "promedio": 4,
+      "id": "8ed9"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "promedio": 6,
+      "id": "b8c7"
+    },
+    {
+      "id": "4f99",
+      "nombre": "Daniel",
+      "apellido": "Torres",
+      "promedio": 9
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Biologia 2",
+      "duración": "2 semestres",
+      "dificultad": "básico",
+      "id": "41d2"
+    },
+    {
+      "nombre": "Programación",
+      "duración": "4 semestres",
+      "dificultad": "intermedio",
+      "id": "71f8"
+    },
+    {
+      "nombre": "Fisica Cuantica",
+      "duración": "1 semestres",
+      "dificultad": "alta",
+      "id": "0469"
+    }
+  ]
+}

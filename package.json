@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "proyecto-json",
+  "version": "0.0.1",
+  "description": "pryecto de j-son bd",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Camilo Garcia",
+  "license": "ISC"
+}
